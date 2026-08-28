@@ -1,0 +1,17 @@
+# Build outputs
+/out/
+/out-br/
+/toolchains/
+
+# Android/repo metadata (not source)
+/.repo/
+
+# Common build/editor junk
+*.o
+*.a
+*.ko
+*.mod
+*.cmd
+*.swp
+*~
+.DS_Store

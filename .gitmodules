@@ -55,3 +55,6 @@
 [submodule "xen"]
 	path = xen
 	url = https://github.com/xen-project/xen.git
+[submodule "pi5-optee"]
+	path = pi5-optee
+	url = git@github.com:sajibmitra/optee-rpi5.git
